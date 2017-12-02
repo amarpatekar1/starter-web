@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amar Patekar amar@securly.com
 
 # THANKS
 
