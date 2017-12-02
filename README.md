@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 
 ## HOW to COntribute
 
-Please fork this repo
+Please fork this repository & issue pull request
 
 
 ##INTRODUCTION
