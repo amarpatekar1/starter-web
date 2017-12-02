@@ -3,6 +3,11 @@
 This repository is for showing how Git and GitHub work
 
 
+## HOW to COntribute
+
+Please fork this repo
+
+
 ##INTRODUCTION
 
 ## Purpose
